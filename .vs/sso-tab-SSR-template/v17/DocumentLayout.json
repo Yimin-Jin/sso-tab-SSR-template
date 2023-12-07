@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs_workspace\\sso-tab-SSR-template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\sso-tab-ssr-template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\sso-tab-ssr-template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\teamsapp.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\teamsapp.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\components\\pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\components\\pages\\welcome.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|d:\\vs_workspace\\sso-tab-ssr-template\\sso-tab-ssr-template\\gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{BB7E7744-14BB-40D0-9D5A-FE645712C193}|sso-tab-SSR-template\\sso-tab-SSR-template.csproj|solutionrelative:sso-tab-ssr-template\\gettingstarted.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "teamsapp.yml",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\teamsapp.yml",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\teamsapp.yml",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\teamsapp.yml",
+              "RelativeToolTip": "sso-tab-SSR-template\\teamsapp.yml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2023-12-07T07:20:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.razor",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\Pages\\Welcome.razor",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\Components\\Pages\\Welcome.razor",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\Pages\\Welcome.razor",
+              "RelativeToolTip": "sso-tab-SSR-template\\Components\\Pages\\Welcome.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T07:19:57.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\Components\\Routes.razor",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\Routes.razor",
+              "RelativeToolTip": "sso-tab-SSR-template\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T07:16:39.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Program.cs",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\Program.cs",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Program.cs",
+              "RelativeToolTip": "sso-tab-SSR-template\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-07T07:17:46.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\Components\\_Imports.razor",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\_Imports.razor",
+              "RelativeToolTip": "sso-tab-SSR-template\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T07:16:50.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\App.razor",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\Components\\App.razor",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\Components\\App.razor",
+              "RelativeToolTip": "sso-tab-SSR-template\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-07T07:15:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sso-tab-SSR-template",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\sso-tab-SSR-template.csproj",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\sso-tab-SSR-template.csproj",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\sso-tab-SSR-template.csproj",
+              "RelativeToolTip": "sso-tab-SSR-template\\sso-tab-SSR-template.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-07T07:14:53.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GettingStarted.md",
+              "DocumentMoniker": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\GettingStarted.md",
+              "RelativeDocumentMoniker": "sso-tab-SSR-template\\GettingStarted.md",
+              "ToolTip": "D:\\vs_workspace\\sso-tab-SSR-template\\sso-tab-SSR-template\\GettingStarted.md",
+              "RelativeToolTip": "sso-tab-SSR-template\\GettingStarted.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2023-12-07T07:13:47.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
